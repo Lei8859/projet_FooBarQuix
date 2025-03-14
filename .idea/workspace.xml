@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d5d2934-dec2-4ea7-89e8-a3f345e7c282" name="Changes" comment="Initialize project">
-      <change afterPath="$PROJECT_DIR$/FooBarQuix/src/main/java/com/example/fooBarQuix/service/FooBarQuixService.java" afterDir="false" />
+    <list default="true" id="6d5d2934-dec2-4ea7-89e8-a3f345e7c282" name="Changes" comment="Add service and controller">
+      <change afterPath="$PROJECT_DIR$/FooBarQuix/src/main/java/com/example/fooBarQuix/batch/FooBarQuixBatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FooBarQuix/src/main/java/com/example/FooBarQuix/FooBarQuixApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/FooBarQuix/src/main/java/com/example/fooBarQuix/FooBarQuixApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jean\Desktop\Java\Spring\FoobarQuix\FooBarQuix\src\main\java\com\example\FooBarQuix" />
@@ -102,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741908678908</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add service and controller">
+      <created>1741910561290</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741910561290</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialize project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initialize project" />
+    <MESSAGE value="Add service and controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add service and controller" />
   </component>
 </project>
