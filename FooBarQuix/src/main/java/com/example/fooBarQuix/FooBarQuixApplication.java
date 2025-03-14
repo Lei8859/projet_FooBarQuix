@@ -1,4 +1,4 @@
-package com.example.FooBarQuix;
+package com.example.fooBarQuix;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
